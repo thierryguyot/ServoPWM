@@ -1,6 +1,6 @@
 # OctoPrint-PWM-ServoControl
 
-Control a servo motor via P>M in OctoPrint !
+Control a servo motor via PWM in OctoPrint !
 
 ## Setup
 
